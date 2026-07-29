@@ -137,9 +137,7 @@ A: Send the full module name and hardware revision, host processor, operating sy
 
 Send the exact module candidate, host processor, operating system, kernel or SDK version, band requirement, antenna plan and target market. MAXON can then confirm which module facts are documented and which items require engineering validation.
 
-Contact: **This email address is being protected from spambots. You need JavaScript enabled to view it. document.getElementById('cloak16e9060b629cf8e422f3d5040f6ced89').innerHTML = ''; var prefix = '&#109;a' + 'i&#108;' + '&#116;o'; var path = 'hr' + 'ef' + '='; var addy16e9060b629cf8e422f3d5040f6ced89 = '&#105;nf&#111;' + '&#64;'; addy16e9060b629cf8e422f3d5040f6ced89 = addy16e9060b629cf8e422f3d5040f6ced89 + 'm&#97;x&#111;nc' + '&#46;' + 'c&#111;m'; var addy_text16e9060b629cf8e422f3d5040f6ced89 = '&#105;nf&#111;' + '&#64;' + 'm&#97;x&#111;nc' + '&#46;' + 'c&#111;m';document.getElementById('cloak16e9060b629cf8e422f3d5040f6ced89').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy16e9060b629cf8e422f3d5040f6ced89 + '\'>'+addy_text16e9060b629cf8e422f3d5040f6ced89+'<\/a>';**
-
-Item navigation
+Contact: info@maxonc.com
 
 ---
 
