@@ -151,6 +151,6 @@ Provide:
 
 MAXON engineering can then confirm the documented fit and identify driver, RF, thermal or certification questions that need further review.
 
-Contact:info@maxon.com
+Contact:info@maxonc.com
 
 Learn more about MAXON industrial wireless solutions at [www.mxcomm.cn](https://www.mxcomm.cn).
