@@ -146,7 +146,7 @@ A: Not automatically. The final antenna, enclosure, cable, enabled bands and tar
 
 Send MAXON your host platform, operating system, interface, required bands, MIMO configuration, antenna plan, target countries and estimated annual volume. An engineer can then narrow the portfolio and identify the remaining hardware, software and certification checks.
 
-Contact:**This email address is being protected from spambots. You need JavaScript enabled to view it. document.getElementById('cloaked60679051452bf9e747f7c96b3a3cba').innerHTML = ''; var prefix = '&#109;a' + 'i&#108;' + '&#116;o'; var path = 'hr' + 'ef' + '='; var addyed60679051452bf9e747f7c96b3a3cba = '&#105;nf&#111;' + '&#64;'; addyed60679051452bf9e747f7c96b3a3cba = addyed60679051452bf9e747f7c96b3a3cba + 'm&#97;x&#111;nc' + '&#46;' + 'c&#111;m'; var addy_texted60679051452bf9e747f7c96b3a3cba = '&#105;nf&#111;' + '&#64;' + 'm&#97;x&#111;nc' + '&#46;' + 'c&#111;m';document.getElementById('cloaked60679051452bf9e747f7c96b3a3cba').innerHTML += '<a ' + path + '\'' + prefix + ':' + addyed60679051452bf9e747f7c96b3a3cba + '\'>'+addy_texted60679051452bf9e747f7c96b3a3cba+'<\/a>';**
+Contact:info@maxonc.com
 
 Item navigation
 
