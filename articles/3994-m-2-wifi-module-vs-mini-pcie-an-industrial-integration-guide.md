@@ -136,7 +136,7 @@ A: Run cold and hot starts, sustained traffic, reboot recovery, AP or STA operat
 
 For an engineering review, send MAXON the carrier-board schematic, host platform, operating system, target module, antenna plan and required wireless functions.
 
-Contact: This email address is being protected from spambots. You need JavaScript enabled to view it. document.getElementById('cloakdc5e7a72ff68ff136caa1469f4d6f4e3').innerHTML = ''; var prefix = '&#109;a' + 'i&#108;' + '&#116;o'; var path = 'hr' + 'ef' + '='; var addydc5e7a72ff68ff136caa1469f4d6f4e3 = '&#105;nf&#111;' + '&#64;'; addydc5e7a72ff68ff136caa1469f4d6f4e3 = addydc5e7a72ff68ff136caa1469f4d6f4e3 + 'm&#97;x&#111;nc' + '&#46;' + 'c&#111;m'; var addy_textdc5e7a72ff68ff136caa1469f4d6f4e3 = '&#105;nf&#111;' + '&#64;' + 'm&#97;x&#111;nc' + '&#46;' + 'c&#111;m';document.getElementById('cloakdc5e7a72ff68ff136caa1469f4d6f4e3').innerHTML += '<a ' + path + '\'' + prefix + ':' + addydc5e7a72ff68ff136caa1469f4d6f4e3 + '\'>'+addy_textdc5e7a72ff68ff136caa1469f4d6f4e3+'<\/a>';
+Contact: info@maxonc.com
 
 Item navigation
 
