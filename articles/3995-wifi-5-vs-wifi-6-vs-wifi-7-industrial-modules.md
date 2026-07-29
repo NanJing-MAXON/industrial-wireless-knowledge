@@ -122,10 +122,6 @@ A: Choose WiFi 7 when the application can use its available bands or newer link 
 
 Send MAXON the host platform, operating system, required bands, traffic profile, client count, mobility requirement, antenna plan, target countries and estimated annual volume. MAXON engineering can identify suitable candidates and the items that still require validation.
 
-Contact:**This email address is being protected from spambots. You need JavaScript enabled to view it. document.getElementById('cloak95affbc10057df49082490de634f4536').innerHTML = ''; var prefix = '&#109;a' + 'i&#108;' + '&#116;o'; var path = 'hr' + 'ef' + '='; var addy95affbc10057df49082490de634f4536 = '&#105;nf&#111;' + '&#64;'; addy95affbc10057df49082490de634f4536 = addy95affbc10057df49082490de634f4536 + 'm&#97;x&#111;nc' + '&#46;' + 'c&#111;m'; var addy_text95affbc10057df49082490de634f4536 = '&#105;nf&#111;' + '&#64;' + 'm&#97;x&#111;nc' + '&#46;' + 'c&#111;m';document.getElementById('cloak95affbc10057df49082490de634f4536').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy95affbc10057df49082490de634f4536 + '\'>'+addy_text95affbc10057df49082490de634f4536+'<\/a>';**
-
-Item navigation
-
----
+Contact:info@maxonc.com
 
 Learn more about MAXON industrial wireless solutions at [www.mxcomm.cn](https://www.mxcomm.cn).
