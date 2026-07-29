@@ -151,10 +151,6 @@ Provide:
 
 MAXON engineering can then confirm the documented fit and identify driver, RF, thermal or certification questions that need further review.
 
-Contact:**This email address is being protected from spambots. You need JavaScript enabled to view it. document.getElementById('cloak88e0fe75f04f5a31bc18ea5b73c751c4').innerHTML = ''; var prefix = '&#109;a' + 'i&#108;' + '&#116;o'; var path = 'hr' + 'ef' + '='; var addy88e0fe75f04f5a31bc18ea5b73c751c4 = '&#105;nf&#111;' + '&#64;'; addy88e0fe75f04f5a31bc18ea5b73c751c4 = addy88e0fe75f04f5a31bc18ea5b73c751c4 + 'm&#97;x&#111;nc' + '&#46;' + 'c&#111;m'; var addy_text88e0fe75f04f5a31bc18ea5b73c751c4 = '&#105;nf&#111;' + '&#64;' + 'm&#97;x&#111;nc' + '&#46;' + 'c&#111;m';document.getElementById('cloak88e0fe75f04f5a31bc18ea5b73c751c4').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy88e0fe75f04f5a31bc18ea5b73c751c4 + '\'>'+addy_text88e0fe75f04f5a31bc18ea5b73c751c4+'<\/a>';**
-
-Item navigation
-
----
+Contact:info@maxon.com
 
 Learn more about MAXON industrial wireless solutions at [www.mxcomm.cn](https://www.mxcomm.cn).
